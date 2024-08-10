@@ -1,1 +1,1 @@
-README
+This repository contains the backend code for the portfolio project. Built with Python (Flask) for APIs and MongoDB for database management, it supports the portfolio’s frontend by handling data and providing necessary APIs.
